@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HDAugmentedReality.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>IBMMobileFirstPlatformFoundationLiveUpdate.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-CouponsApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>25BA7D597CBBC52E7F72BEBFD1493CC3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C518BEF004A5F3BFC4AA60F34570EC3E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE3E53B93222F2B4879C04513E22B719</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FABFFCDBA8EAA5792EA828B281C44743</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
